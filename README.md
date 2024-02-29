@@ -9,8 +9,8 @@ I also uploaded a Remixed version of the extruder bracket without the bar to hol
 
 Please follow the instructions of 3dChameleon from https://www.3dchameleon.com/instructions
 
-[!NOTE]
-This is work in progress. If you find any errors please open a issue or create a pull request.
+>[!NOTE]
+>This is work in progress. If you find any errors please open a issue or create a pull request.
 
 
 
